@@ -4814,13 +4814,13 @@ progress {
   font-family: "fontr";
   font-weight: normal;
   font-style: normal;
-  src: url("/images/fonts/candara/Candara.woff") format("woff"), url("/images/fonts/candara/Candara.ttf") format("truetype"); }
+  src: url("images/fonts/candara/Candara.woff") format("woff"), url("images/fonts/candara/Candara.ttf") format("truetype"); }
 
 @font-face {
   font-family: "fontr";
   font-weight: 900;
   font-style: normal;
-  src: url("/images/fonts/candara/Candara-Bold.woff") format("woff"), url("/images/fonts/candara/Candara-Bold.ttf") format("truetype"); }
+  src: url("images/fonts/candara/Candara-Bold.woff") format("woff"), url("images/fonts/candara/Candara-Bold.ttf") format("truetype"); }
 
 *:focus {
   outline: none !important; }
@@ -4886,7 +4886,7 @@ h1,
     color: #fff; }
 
 .icon-arrow-left {
-  background-image: url("/images/raster/24-px-arrow-arrow-left.png");
+  background-image: url("images/raster/24-px-arrow-arrow-left.png");
   background-size: 24px 24px;
   background-repeat: no-repeat;
   width: 24px;
@@ -4895,19 +4895,19 @@ h1,
   margin-right: 1rem; }
   @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
     .icon-arrow-left {
-      background-image: url("/images/raster/24-px-arrow-arrow-left@2x.png");
+      background-image: url("images/raster/24-px-arrow-arrow-left@2x.png");
       background-size: 24px 24px;
       width: 24px;
       height: 24px; } }
   @media only screen and (-webkit-min-device-pixel-ratio: 3), only screen and (min--moz-device-pixel-ratio: 3), only screen and (-o-min-device-pixel-ratio: 3 / 1), only screen and (min-device-pixel-ratio: 3), only screen and (min-resolution: 288dpi), only screen and (min-resolution: 3dppx) {
     .icon-arrow-left {
-      background-image: url("/images/raster/24-px-arrow-arrow-left@3x.png");
+      background-image: url("images/raster/24-px-arrow-arrow-left@3x.png");
       background-size: 24px 24px;
       width: 24px;
       height: 24px; } }
 
 .icon-arrow-right {
-  background-image: url("/images/raster/24-px-arrow-arrow-right.png");
+  background-image: url("images/raster/24-px-arrow-arrow-right.png");
   background-size: 24px 24px;
   background-repeat: no-repeat;
   width: 24px;
@@ -4916,57 +4916,57 @@ h1,
   margin-left: 1rem; }
   @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
     .icon-arrow-right {
-      background-image: url("/images/raster/24-px-arrow-arrow-right@2x.png");
+      background-image: url("images/raster/24-px-arrow-arrow-right@2x.png");
       background-size: 24px 24px;
       width: 24px;
       height: 24px; } }
   @media only screen and (-webkit-min-device-pixel-ratio: 3), only screen and (min--moz-device-pixel-ratio: 3), only screen and (-o-min-device-pixel-ratio: 3 / 1), only screen and (min-device-pixel-ratio: 3), only screen and (min-resolution: 288dpi), only screen and (min-resolution: 3dppx) {
     .icon-arrow-right {
-      background-image: url("/images/raster/24-px-arrow-arrow-right@3x.png");
+      background-image: url("images/raster/24-px-arrow-arrow-right@3x.png");
       background-size: 24px 24px;
       width: 24px;
       height: 24px; } }
 
 .icon-close {
-  background-image: url("/images/raster/24-px-interface-cross-large.png");
+  background-image: url("images/raster/24-px-interface-cross-large.png");
   background-size: 24px 24px;
   background-repeat: no-repeat;
   width: 24px;
   height: 24px; }
   @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
     .icon-close {
-      background-image: url("/images/raster/24-px-interface-cross-large@2x.png");
+      background-image: url("images/raster/24-px-interface-cross-large@2x.png");
       background-size: 24px 24px;
       width: 24px;
       height: 24px; } }
   @media only screen and (-webkit-min-device-pixel-ratio: 3), only screen and (min--moz-device-pixel-ratio: 3), only screen and (-o-min-device-pixel-ratio: 3 / 1), only screen and (min-device-pixel-ratio: 3), only screen and (min-resolution: 288dpi), only screen and (min-resolution: 3dppx) {
     .icon-close {
-      background-image: url("/images/raster/24-px-interface-cross-large@3x.png");
+      background-image: url("images/raster/24-px-interface-cross-large@3x.png");
       background-size: 24px 24px;
       width: 24px;
       height: 24px; } }
 
 .icon-US {
-  background-image: url("/images/raster/us.png");
+  background-image: url("images/raster/us.png");
   background-size: 28px 20px;
   background-repeat: no-repeat;
   width: 28px;
   height: 20px; }
   @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
     .icon-US {
-      background-image: url("/images/raster/us@2x.png");
+      background-image: url("images/raster/us@2x.png");
       background-size: 28px 20px;
       width: 28px;
       height: 20px; } }
   @media only screen and (-webkit-min-device-pixel-ratio: 3), only screen and (min--moz-device-pixel-ratio: 3), only screen and (-o-min-device-pixel-ratio: 3 / 1), only screen and (min-device-pixel-ratio: 3), only screen and (min-resolution: 288dpi), only screen and (min-resolution: 3dppx) {
     .icon-US {
-      background-image: url("/images/raster/us@3x.png");
+      background-image: url("images/raster/us@3x.png");
       background-size: 28px 20px;
       width: 28px;
       height: 20px; } }
 
 .icon-recommendations {
-  background-image: url("/images/raster/illustration-isometric-r-46-recommendations.png");
+  background-image: url("images/raster/illustration-isometric-r-46-recommendations.png");
   background-size: 400px 268px;
   background-repeat: no-repeat;
   width: 400px;
@@ -4975,13 +4975,13 @@ h1,
   margin-right: auto; }
   @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
     .icon-recommendations {
-      background-image: url("/images/raster/illustration-isometric-r-46-recommendations@2x.png");
+      background-image: url("images/raster/illustration-isometric-r-46-recommendations@2x.png");
       background-size: 260px 175px;
       width: 260px;
       height: 175px; } }
   @media only screen and (-webkit-min-device-pixel-ratio: 3), only screen and (min--moz-device-pixel-ratio: 3), only screen and (-o-min-device-pixel-ratio: 3 / 1), only screen and (min-device-pixel-ratio: 3), only screen and (min-resolution: 288dpi), only screen and (min-resolution: 3dppx) {
     .icon-recommendations {
-      background-image: url("/images/raster/illustration-isometric-r-46-recommendations@3x.png");
+      background-image: url("images/raster/illustration-isometric-r-46-recommendations@3x.png");
       background-size: 260px 175px;
       width: 260px;
       height: 175px; } }
@@ -5075,20 +5075,20 @@ h1,
 
 .dd-pointer-down {
   margin-top: -12px;
-  background-image: url("/images/raster/24-px-arrow-angle-down.png");
+  background-image: url("images/raster/24-px-arrow-angle-down.png");
   background-size: 24px 24px;
   background-repeat: no-repeat;
   width: 24px;
   height: 24px; }
   @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
     .dd-pointer-down {
-      background-image: url("/images/raster/24-px-arrow-angle-down@2x.png");
+      background-image: url("images/raster/24-px-arrow-angle-down@2x.png");
       background-size: 24px 24px;
       width: 24px;
       height: 24px; } }
   @media only screen and (-webkit-min-device-pixel-ratio: 3), only screen and (min--moz-device-pixel-ratio: 3), only screen and (-o-min-device-pixel-ratio: 3 / 1), only screen and (min-device-pixel-ratio: 3), only screen and (min-resolution: 288dpi), only screen and (min-resolution: 3dppx) {
     .dd-pointer-down {
-      background-image: url("/images/raster/24-px-arrow-angle-down@3x.png");
+      background-image: url("images/raster/24-px-arrow-angle-down@3x.png");
       background-size: 24px 24px;
       width: 24px;
       height: 24px; } }
