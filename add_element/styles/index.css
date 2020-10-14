@@ -1,0 +1,9 @@
+body {
+	font-size: 12px
+}
+
+@media screen and (max-width:479px) {
+	body {
+		font-size: 10px
+	}
+}

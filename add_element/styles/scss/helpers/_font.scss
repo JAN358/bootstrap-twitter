@@ -1,0 +1,17 @@
+$font-family: 'fontr';
+$file-path: '/images/fonts/candara/Candara';
+$file-path-bold: '/images/fonts/candara/Candara-Bold';
+$file-path-italic: '../../fonts/candara/Candara';
+$font-family-title: 'Oldsman';
+$file-path-title: '../../fonts/Oldsman/Oldsman';
+
+
+//@include font-face($font-family-title, $file-path-title);
+
+@include font-face-wc($font-family, $file-path);
+@include font-face-wc($font-family, $file-path-bold, 900, normal);
+//@include font-face($font-family, $file-path-italic, normal, italic);
+
+%tsh{
+  text-shadow: 0 0 0;
+}
